@@ -1,5 +1,6 @@
 COMPONENT=$1 
 ENV=$2
+Account ID:434906154162
 INSTANCE_TYPE="t2.micro"
  
 if [ -z $1 ] || [ -z $2 ]  ; then 
